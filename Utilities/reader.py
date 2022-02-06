@@ -1,5 +1,6 @@
 import os.path as path
 import wget
+import numpy as np
 
 
 def reader(file, url):
